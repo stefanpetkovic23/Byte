@@ -1,6 +1,6 @@
 # Byte Board Game
 
-## Projekat rađen za potrebe predmeta veštčka inteligencija.
+ Projekat rađen za potrebe predmeta veštčka inteligencija.
 
 ## Overview
 
